@@ -3,9 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Silas Alberti # Website name
+baseurl: 'https://silasalberti.com/' # Website URL
+copyright: 'Last updated January 2022' # Footer text, e.g. '© {year} Me'
+
+# # # Own stuff
+customCss: 
+  - 'css/custom.css'
+
+# # #
+
 
 ############################
 ## LANGUAGE

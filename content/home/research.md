@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 55
 
-title: Projects
+title: Research
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: research
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

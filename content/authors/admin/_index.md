@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Silas Alberti 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+# organizations:
+# - name: Stanford University
+#  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: University of California, Berkeley 
+    institution: Visiting Student
+    year: 2021
+  - course: LMU Munich
+    institution: B.Sc. in Mathematics & Computer Science 
+    year: 2019 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +39,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:contact@silasalberti.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/SilasAlberti
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/silasalberti
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/silasalberti
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a final-year undergraduate student in Mathematics and Computer Science at [LMU Munich](https://lmu.de/en/). There, I am a research assistant at [Prof. Gitta Kutyniok](https://en.wikipedia.org/wiki/Gitta_Kutyniok)'s chair on "Mathematical Foundations of AI" and assist with the coordination of the DFG-funded priority program ["Theoretical Foundations of Deep Learning"](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_36/index.html). Moreover,  at [UC Berkeley](https://www.berkeley.edu/) I am advised by [Prof. Song Mei](https://www.stat.berkeley.edu/~songmei/) and I am conducting research with [Prof. Bruno Olshausen](https://www2.eecs.berkeley.edu/Faculty/Homepages/baolshausen.html) from the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) through [Machine Learning at Berkeley](https://ml.berkeley.edu/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Next summer, I will be a quantitative trading intern at [Jane Street](https://www.janestreet.com/) and for the past 2 years I have been working as a part-time software engineer at the startup [Fulfin](https://www.fulfin.com/eng/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Silas Alberti.pdf" "newtab" >}}CV{{< /staticref >}}.

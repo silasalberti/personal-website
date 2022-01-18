@@ -2,7 +2,7 @@
 title: Mathematical Foundations of Artificial Intelligence
 
 # Summary for listings and search engines
-summary: Developing a new benchmarks and studying new architectures for letting Graph Neural Networks detect directionality. Advised by Prof. Gitta Kutyniok and Dr. Ron Levie.
+summary: Developing a new benchmark and studying new architectures for letting Graph Neural Networks detect directionality. Advised by Prof. Gitta Kutyniok and Dr. Ron Levie.
 
 # Link this post with a project
 projects: []

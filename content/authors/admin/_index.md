@@ -68,4 +68,4 @@ I study Mathematics and Computer Science at [LMU Munich](https://lmu.de/en/), wh
 
 Next summer, I will be a quantitative trading intern at [Jane Street](https://www.janestreet.com/) and for the past 2 years I have been working as a part-time software engineer at the startup [Fulfin](https://www.fulfin.com/eng/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Silas Alberti.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Silas Alberti.pdf" "newtab" >}}CV{{< /staticref >}}. -->

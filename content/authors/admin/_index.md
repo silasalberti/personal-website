@@ -25,6 +25,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Education to show in About widget
 education:
   courses:
+  - course: Stanford University
+    insitution: PhD Student
+    year: 2022 - present
   - course: University of California, Berkeley 
     institution: Visiting Student
     year: 2021
@@ -64,8 +67,11 @@ email: ""
 highlight_name: true
 ---
 
-I study Mathematics and Computer Science at [LMU Munich](https://lmu.de/en/), where I am a research assistant at [Prof. Gitta Kutyniok](https://en.wikipedia.org/wiki/Gitta_Kutyniok)'s chair for Mathematical Foundations of AI and help coordinate the DFG-funded priority program ["Theoretical Foundations of Deep Learning"](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_36/index.html). Moreover,  at [UC Berkeley](https://www.berkeley.edu/) I am advised by [Prof. Song Mei](https://www.stat.berkeley.edu/~songmei/) and conduct research with [Prof. Bruno Olshausen](https://www2.eecs.berkeley.edu/Faculty/Homepages/baolshausen.html) from the [Redwood Center](https://redwood.berkeley.edu/) through [Machine Learning at Berkeley](https://ml.berkeley.edu/).
+I am a PhD student in machine learninf at Stanford University.
+I am currently working on 3D diffusion models with Prof. Gotdon Wetzstein and I am broadly interested in generative AI.
+My undergrad was in Mathematics at [LMU Munich](https://lmu.de/en/), where I was a research assistant at [Prof. Gitta Kutyniok](https://en.wikipedia.org/wiki/Gitta_Kutyniok)'s chair for Mathematical Foundations of AI and help coordinate the DFG-funded priority program ["Theoretical Foundations of Deep Learning"](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_36/index.html). 
+Moreover,  at [UC Berkeley](https://www.berkeley.edu/) I was advised by [Prof. Song Mei](https://www.stat.berkeley.edu/~songmei/) and conducted research with [Prof. Bruno Olshausen](https://www2.eecs.berkeley.edu/Faculty/Homepages/baolshausen.html) from the [Redwood Center](https://redwood.berkeley.edu/) through [Machine Learning at Berkeley](https://ml.berkeley.edu/).
 
-Next summer, I will be a quantitative trading intern at [Jane Street](https://www.janestreet.com/) and for the past 2 years I have been working as a part-time software engineer at the startup [Fulfin](https://www.fulfin.com/eng/).
+Last summer, I was a quantitative trading intern at [Jane Street](https://www.janestreet.com/) and for the past 2 years I was working as a part-time software engineer at the startup [Fulfin](https://www.fulfin.com/eng/).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV Silas Alberti.pdf" "newtab" >}}CV{{< /staticref >}}. -->

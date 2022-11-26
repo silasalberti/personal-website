@@ -26,7 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: Stanford University
-    insitution: PhD Student
+    institution: PhD Student
     year: 2022 - present
   - course: University of California, Berkeley 
     institution: Visiting Student

@@ -63,6 +63,9 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
+# Prior advisors:
+# [Prof. Gordon Wetzstein](https://web.stanford.edu/~gordonwz/)
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
@@ -71,7 +74,7 @@ highlight_name: true
 ---
 
 I am a PhD student in machine learning at [Stanford University](https://web.stanford.edu/~salberti).
-I am currently working on 3D diffusion models with [Prof. Gordon Wetzstein](https://web.stanford.edu/~gordonwz/) and I am broadly interested in generative AI.
+I am co-advised by [Stefano Ermon](https://cs.stanford.edu/~ermon/) and [Chris Ré](https://cs.stanford.edu/~chrismre/) and I am broadly interested in foundation models and theory. I am affiliated with [Stanford AI Lab](https://ai.stanford.edu/) and [Center for Research on Foundation Models](https://crfm.stanford.edu/).
 My undergrad was in Mathematics at [LMU Munich](https://lmu.de/en/), where I was a research assistant at [Prof. Gitta Kutyniok](https://en.wikipedia.org/wiki/Gitta_Kutyniok)'s chair for Mathematical Foundations of AI and helped coordinate the DFG-funded priority program ["Theoretical Foundations of Deep Learning"](https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_36/index.html). 
 Moreover,  at [UC Berkeley](https://www.berkeley.edu/) I was advised by [Prof. Song Mei](https://www.stat.berkeley.edu/~songmei/) and conducted research with [Prof. Bruno Olshausen](https://www2.eecs.berkeley.edu/Faculty/Homepages/baolshausen.html) from the [Redwood Center](https://redwood.berkeley.edu/) through [Machine Learning at Berkeley](https://ml.berkeley.edu/).
 

@@ -25,3 +25,9 @@
   to = "https://sil.as"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://alberti.xyz"
+  to = "https://sil.as"
+  status = 301
+  force = true
